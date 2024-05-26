@@ -1,0 +1,14 @@
+problem_cozme_yetenegi-1
+borclanmayi_normallestirme_egilimi-2,5
+maddiyata_verilen_deger-3,17
+maddi_hazirlikli_olma-4
+konfora_verilen_onem-6,15
+oz_disiplin-7
+kendini_yeterli_hissetme-8
+oz_kontrol-9
+durtusellik-10
+sabirsizlik_duygusal_istikrar-11
+sorumluluk-12
+rahatlik-13
+ozguven-14
+insanlari_etkileme_arzusu-16
